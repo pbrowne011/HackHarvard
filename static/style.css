@@ -1,18 +1,18 @@
 body {
-    font-family: Garamond;
+    font-family: Ariel;
 }
 
 h1 {
-    color: black;
+    color: rgb(15, 190, 123);
     margin-bottom: 0;
     margin-top: 0;
     text-align: center;
-    font-size: 40px;
+    font-size: 44px;
 }
 
 h3 {
     color: black;
-    font-size: 20px;
+    font-size: 22px;
     margin-top: 3px;
     text-align: center;
 }
@@ -20,21 +20,21 @@ h3 {
 #chatbox {
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 65%;
     margin-top: 60px;
 }
 
 #userInput {
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 65%;
     margin-top: 60px;
 }
 
 #textInput {
     width: 87%;
     border: none;
-    border-bottom: 3px solid #009688;
+    border-bottom: 3px solid #c0a91a;
     font-family: monospace;
     font-size: 17px;
 }
@@ -54,7 +54,7 @@ h3 {
 }
 
 .userText span {
-    background-color: #009688;
+    background-color: #6e0de4;
     padding: 10px;
     border-radius: 2px;
 }
@@ -68,7 +68,7 @@ h3 {
 }
 
 .botText span {
-    background-color: #EF5350;
+    background-color: #9aef50;
     padding: 10px;
     border-radius: 2px;
 }
