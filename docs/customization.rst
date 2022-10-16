@@ -74,5 +74,6 @@ or a callable that returns a site instance.
     INSTALLED_APPS = [
         ...
         'myproject.apps.MyWikiConfig',  # replaces 'wiki.apps.WikiConfig'
+        'chatterbot.ext.django_chatterbot',
         ...
     ]

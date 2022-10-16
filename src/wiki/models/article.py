@@ -440,6 +440,14 @@ class ArticleRevision(BaseRevisionMixin, models.Model):
         unique_together = ("article", "revision_number")
 
 
+
+
+
+
+
+
+
+
 ######################################################
 # SIGNAL HANDLERS
 ######################################################

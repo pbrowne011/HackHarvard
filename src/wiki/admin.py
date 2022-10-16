@@ -105,3 +105,4 @@ class URLPathAdmin(MPTTModelAdmin):
 admin.site.register(models.URLPath, URLPathAdmin)
 admin.site.register(models.Article, ArticleAdmin)
 admin.site.register(models.ArticleRevision, ArticleRevisionAdmin)
+
